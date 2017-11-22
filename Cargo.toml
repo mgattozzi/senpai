@@ -2,6 +2,12 @@
 name = "senpai"
 version = "0.1.0"
 authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "Will you notice me Single Producer Multi Consumer-kun?"
+documentation = "https://docs.rs/senpai"
+homepage = "https://github.com/mgattozzi/senpai"
+repository = "https://github.com/mgattozzi/senpai"
+readme = "README.md"
+license = "MIT/Apache-2.0"
 
 [dependencies]
 crossbeam = "0.3"
